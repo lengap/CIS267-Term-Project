@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+# CIS 367 01
+## Term Project Deliverables
+### Patrick Lenga, Jonathan Sijtsma
+### 4/20/2022
 
-You can use the [editor on GitHub](https://github.com/lengap/CIS367-Term-Project/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# ---Blender Project---
+No Code was used.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+(1) Our project is a fluid sim with water flowing from 3 bowls, We tried to add incense as well but it didn't end up in the final render.
 
-### Markdown
+(2) We used vanilla blender
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+(3) To run our project you can download our blend file from our github: https://github.com/lengap/CIS367-Term-Project
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+https://user-images.githubusercontent.com/59628130/164305235-9ef51ab4-7e26-4291-9e8d-5e645cecfc2c.mp4
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lengap/CIS367-Term-Project/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
