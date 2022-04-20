@@ -12,7 +12,4 @@ No Code was used.
 
 (3) To run our project you can download our blend file from our github: https://github.com/lengap/CIS367-Term-Project
 
-
-
-https://user-images.githubusercontent.com/59628130/164305235-9ef51ab4-7e26-4291-9e8d-5e645cecfc2c.mp4
-
+If you want to view the gif in all its glory, follow this link : https://cis.gvsu.edu/~lengap/CIS367/Term-Project/index.html
